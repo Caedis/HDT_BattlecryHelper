@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattlecryHelper", "BattlecryHelper\BattlecryHelper.csproj", "{D40D658C-E767-46CD-8EB9-3BDD885EF887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40D658C-E767-46CD-8EB9-3BDD885EF887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40D658C-E767-46CD-8EB9-3BDD885EF887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40D658C-E767-46CD-8EB9-3BDD885EF887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40D658C-E767-46CD-8EB9-3BDD885EF887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C8BA79-1F9A-44D1-AA94-99C019AE0DBF}
+	EndGlobalSection
+EndGlobal
